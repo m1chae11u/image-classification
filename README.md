@@ -1,2 +1,2 @@
 # image-classification
-using pretrained models
+simple project using pretrained models (mobilenet)
